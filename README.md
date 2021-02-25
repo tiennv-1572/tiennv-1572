@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<a href="#tiennv-1572-t">
+<a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=tiennv-1572&show_icons=true&count_private=true&include_all_commits=true" alt="tiennv-1572" align="right" />
 </a>
 
